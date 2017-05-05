@@ -1,0 +1,14 @@
+{
+  "name": "intersection-observer-crash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/as-cii/intersection-observer-crash",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "1.6.8"
+  }
+}
